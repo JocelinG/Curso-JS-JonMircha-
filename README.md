@@ -1,2 +1,2 @@
 # Curso-JS-JonMircha-
-Ejercicios del cuerso
+Ejercicios del curso
